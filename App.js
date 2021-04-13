@@ -82,7 +82,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       
-      <Header fullname="GUESS THE NUMBER!" />
+      <Header fullname="GUESS THE NUMBER GAME yo!" />
       <Text>Guess the number between 0-9.</Text>
       <Text>Round:&nbsp;{getround+1}</Text>
       <Text style={{ fontSize: 50 }}>{getText}</Text>
